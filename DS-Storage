@@ -2,3 +2,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3d85gyN/O-Homem-do-Norte.jpg" group-title="FILMES-AÇAO", O Homem do Norte 2022
 http://venom.cdnz.be/filmes/acao/O-Homem-do-Norte-2022.mp4
+#EXTINF:-1 tvg-logo="https://ibb.co/K6LFYBW" group-title="FILMES-AÇAO", Tiro as Cegas 2020
+http://venom.cdnz.be/filmes/acao/Tiro-as-Cegas-2020.mp4
