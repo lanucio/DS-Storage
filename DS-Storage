@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MdC3G7b.jpg" group-title="FILMES", TERABOX
-https://www.terabox.com/portuguese/play/video?path=%2FUncharted-Fora-do-Mapa-2022.MP4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MdC3G7b.jpg" group-title="FILMES", STORANGE
-http://venom.cdnz.be/filmes/aventura/Uncharted-Fora-do-Mapa-2022.MP4
+#EXTINF:-1 tvg-logo="https://ibb.co/yPMmHny" group-title="FILMES", AÇÃO
+http://venom.cdnz.be/filmes/acao/O-Homem-do-Norte-2022.mp4
