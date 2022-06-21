@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MdC3G7b.jpg" group-title="FILMES-AÇAO", O-Homem-do-Norte-2022
 http://venom.cdnz.be/filmes/acao/O-Homem-do-Norte-2022.mp4
@@ -28,5 +27,6 @@ http://venom.cdnz.be/filmes/infantil/Sing-2-2021.mp4
 http://venom.cdnz.be/filmes/infantil/Sonic2-O-Filme-2022.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/NcWE4w3.jpg" group-title="FILMES-INFANTIL", Tico e Teco - Defensores da Lei
 http://venom.cdnz.be/filmes/infantil/Tico-e-Teco-Defensores-da-Lei.mp4
-
+#EXTINF:-1 tvg-logo="https://imgur.com/wNvhkY3.jpg" group-title="FILMES-INFANTIL", Zootopia: Essa Cidade é o Bicho
+http://venom.cdnz.be/filmes/infantil/Zootopia-Essa-Cidade-e-o-Bicho.mp4
 
