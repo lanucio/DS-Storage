@@ -18,6 +18,10 @@ http://venom.cdnz.be/filmes/acao/Spiderhead-2022.mp4
 #EXTINF:-1 tvg-logo=https://i.imgur.com/zWT3CJn.jpg"" group-title="FILMES-AÇAO", Batman-2022
 http://venom.cdnz.be/filmes/acao/Batman-2022.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7TiqDC.jpeg" group-title="FILMES-AVENTURA", -Hobbit.A-Desolacao-de-Smaug-Versao-Estendida-2014
+http://venom.cdnz.be/filmes/aventura/O-Hobbit.A-Desolacao-de-Smaug-Versao-Estendida-2014.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UgSPZtc.jpg" group-title="FILMES-FICÇÃO", Interestelar-2014-IMAX
 http://venom.cdnz.be/filmes/Ficcao/Interestelar-2014-IMAX.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3F3FwAj.jpg" group-title="FILMES-FICÇÃO", O-Quinto-Elemento-1997-IMAX
