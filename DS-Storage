@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRUaVx1.jpg" group-title="FILMES-AÇÃO", Minha-Vinganca-2021
+http://venom.cdnz.be/filmes/acao/Minha-Vinganca-2021.mp4
 #EXTINF:-1 tvg-logo-"https://i.imgur.com/MdC3G7b.jpg" group-title="FILMES-AÇÃO", O-Homem-do-Norte-2022
 http://venom.cdnz.be/filmes/acao/O-Homem-do-Norte-2022.mp4
 #EXTINF:-1 tvg-logo-"https://i.imgur.com/SMVc5s6.png" group-title="FILMES-AÇÃO", Doctor-Strange-in-the-Multiverse-of-Madness-2022-IMAX
