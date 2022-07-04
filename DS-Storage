@@ -30,6 +30,8 @@ http://venom.cdnz.be/filmes/acao/American-Ninja-4-O-Grande-Kickboxer-Americano-1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D8cdixW.jpg" group-title="FILMES-AÇÃO", American-Ninja-5-O-Pequeno-Ninja-1993
 http://venom.cdnz.be/filmes/acao/American-Ninja-5-O-Pequeno-Ninja-1993.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4FJx6j.jpg" group-title="FILMES-AVENTURA", Os-Goonies-1985
+http://venom.cdnz.be/filmes/aventura/Os-Goonies-1985.mp4
 #EXTINF:-1 tvg-logo-"https://i.imgur.com/p7TiqDC.jpg" group-title="FILMES-AVENTURA", -Hobbit.A-Desolacao-de-Smaug-Versao-Estendida-2014
 http://venom.cdnz.be/filmes/aventura/O-Hobbit.A-Desolacao-de-Smaug-Versao-Estendida-2014.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cBdGyoC.jpg" group-title="FILMES-AVENTURA", O-Hobbit-A-Batalha-dos-Cinco-Exercitos-2015
