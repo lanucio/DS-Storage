@@ -32,6 +32,9 @@ http://venom.cdnz.be/filmes/acao/American-Ninja-5-O-Pequeno-Ninja-1993.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6cICN3I.jpg" group-title="FILMES-AÇÃO", Era-uma-vez-no-Mexico-2003
 http://venom.cdnz.be/filmes/acao/Era-uma-vez-no-Mexico-2003.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tyveE7g.jpg" group-title="FILMES-4k", Assassino-Sem-Rastro
+http://venom.cdnz.be/filmes/filmes-4k/Assassino-Sem-Rastro.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p4FJx6j.jpg" group-title="FILMES-AVENTURA", Os-Goonies-1985
 http://venom.cdnz.be/filmes/aventura/Os-Goonies-1985.mp4
 #EXTINF:-1 tvg-logo-"https://i.imgur.com/p7TiqDC.jpg" group-title="FILMES-AVENTURA", -Hobbit.A-Desolacao-de-Smaug-Versao-Estendida-2014
