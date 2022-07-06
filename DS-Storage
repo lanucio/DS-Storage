@@ -34,6 +34,8 @@ http://venom.cdnz.be/filmes/acao/Era-uma-vez-no-Mexico-2003.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tyveE7g.jpg" group-title="FILMES-4k", Assassino-Sem-Rastro
 http://venom.cdnz.be/filmes/filmes-4k/Assassino-Sem-Rastro.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVHC2DD.jpg" group-title="FILMES-4k", Sem-Tempo-para-Morrer-2021
+http://venom.cdnz.be/filmes/filmes-4k/007-Sem-Tempo-para-Morrer-2021-4k.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p4FJx6j.jpg" group-title="FILMES-AVENTURA", Os-Goonies-1985
 http://venom.cdnz.be/filmes/aventura/Os-Goonies-1985.mp4
